@@ -2,7 +2,7 @@ import React from 'react'
 function Hello(props) {
 
     return (
-        <h1>hello{props.name}</h1>
+        <h1></h1>
     )
 
 }
